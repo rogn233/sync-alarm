@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sync_alarm">
+    <output-path>$PROJECT_DIR$/out/artifacts/sync_alarm</output-path>
+    <root id="archive" name="sync_alarm.jar">
+      <element id="module-output" name="sync-alarm" />
+    </root>
+  </artifact>
+</component>
